@@ -1,0 +1,6 @@
+Crop production [111]
+Cannabis production [111C]
+Animal production [112]
+Forestry and logging [113]
+Fishing, hunting and trapping [114]
+Support activities for agriculture and forestry [115]

@@ -1,0 +1,7 @@
+Breweries [31212]
+Wineries and distilleries [3121A]
+Tobacco manufacturing [3122]
+Cannabis stores (licensed) [453BL]
+Cannabis stores (unlicensed) [453BU]
+Cannabis stores [453B]
+Gambling industries [7132]

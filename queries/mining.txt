@@ -1,0 +1,8 @@
+Coal mining [2121]
+Iron ore mining [21221]
+Gold and silver ore mining [21222]
+Copper, nickel, lead and zinc ore mining [21223]
+Other metal ore mining [21229]
+Stone mining and quarrying [21231]
+Sand, gravel, clay, and ceramic and refractory minerals mining and quarrying [21232]
+Potash mining [212396]
